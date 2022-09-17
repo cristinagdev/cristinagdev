@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 
-<p align= "right" > 
-  <img src="./assets/logo.png" width="300"/>
-</p>
 
 
 
@@ -60,6 +57,11 @@ Here are some ideas to get you started:
 
 <h2 align="center">About me 😇</h2>
 <br />
+
+
+<p align= "right" > 
+  <img src="./assets/logo.png" width="300"/>
+</p>
 <p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different technologies although I have a special interest in frontend development. </p>
 <p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
