@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<p align="center">
+<p >
   
-  <a> <img align="center" src= "https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"  width="40" height="40"/> </a>
+  <a> <img  src= "https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"  width="40" height="40"/> </a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"  width="40" height="40" /></a>
