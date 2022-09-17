@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 <p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different technologies although I have a special interest in frontend development. </p>
 <p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
-<p>:muscle: I am currently ... doing an Frontend training.</p>
+<p>:muscle: I am currently ... doing a frontend training.</p>
 <p>🌱 I’m currently learning ... React and UX/UI design.</p>
-<p>:raising_hand: I’m looking ... or job opportunities where I can learn and grow as a developer.</p>
+<p>:raising_hand: I’m looking ... for job opportunities where I can learn and grow as a developer.</p>
 <p>:ghost: Fun fact: ... I studied teaching and discovered web development watching HTML and CSS videos on youtube. </p>
 
 <br />
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <a> <img src= "https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"  width="40" height="40"/> </a>
+  <a> <img align="center" src= "https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"  width="40" height="40"/> </a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"  width="40" height="40" /></a>
