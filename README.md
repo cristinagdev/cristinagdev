@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 </p>
 <br />
 
-<!-- <p align="center">Frontend developer.</p>
-<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
-<p>From time to time I am contributing to open source to improve projects web accessibility.</p>
+<p align="center">Frontend developer.</p>
+<!-- <p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
+<!-- <p>From time to time I am contributing to open source to improve projects web accessibility.</p> -->
 <br />
 
 <!-- <h2 align="center">My favorite projects 💻</h2>
@@ -55,15 +55,14 @@ Here are some ideas to get you started:
 
 <h2 align="center">About me 😇</h2>
 <br />
-<p></p>
+<p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different technologies although I have a special interest in frontend development. </p>
+<p>✨I am a responsible and organized person, with the ability to adapt and used to working as a team. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
-<p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
-<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
-<p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
-<p>:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. </p>
+<p>:muscle: I am currently ... doing an Frontend training.</p>
+<p>🌱 I’m currently learning ... React and UX/UI design.</p>
+<p>:raising_hand: I’m looking ... or job opportunities where I can learn and grow as a developer.</p>
+<p>:ghost: Fun fact: ... I studied teaching and discovered web development watching HTML and CSS videos on youtube. </p>
 
-<br />
 <br />
 <p>
 <h3 align="center"> Languages and Tools</h3>
