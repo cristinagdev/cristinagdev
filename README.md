@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 
-<img src="./assets/logo.png.png" />
+<p align= "rigth" > 
+  <img src="./assets/logo.png" width="400"/>
+</p>
+
 
 
 
@@ -35,7 +38,7 @@ Here are some ideas to get you started:
 <br />
 
 <p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
+  <img  width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
  <a href="https://github.com/YuriDevAT/sos-animals">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
