@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **cristinagdev/cristinagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <h1 align="center"><b>Hi there, I'm Cristina </h1>
+  <h1 align="center"><b>Hi there 👋, I'm Cristina </h1>
 </p>
 <p align="center">
 <!-- <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
@@ -25,8 +24,9 @@ Here are some ideas to get you started:
 <br />
 
 <p align="center">Frontend developer.</p>
+
 <!-- <p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
-<!-- <p>From time to time I am contributing to open source to improve projects web accessibility.</p> -->
+
 <br />
 
 <!-- <h2 align="center">My favorite projects 💻</h2>
@@ -94,25 +94,15 @@ Here are some ideas to get you started:
   
 <img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-   </p>
+ </p>
 <br />
 
 ---
 
-<br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
-</p>
-
----
 
 
 
 
-
-
-</p>
 
 
 
