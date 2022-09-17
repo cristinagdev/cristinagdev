@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <h2 align="center">About me 😇</h2>
 <br />
 <p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different technologies although I have a special interest in frontend development. </p>
-<p>✨I am a responsible and organized person, with the ability to adapt and used to working as a team. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
+<p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
 <p>:muscle: I am currently ... doing an Frontend training.</p>
 <p>🌱 I’m currently learning ... React and UX/UI design.</p>
@@ -76,12 +76,7 @@ Here are some ideas to get you started:
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
    </p>
-<br />
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</p>
 <br />
 
 ---
@@ -94,17 +89,6 @@ Here are some ideas to get you started:
 
 ---
 
-📕 **Latest Blog Posts**
-
-<!-- DEV:START -->
-- [Q&amp;A: Who Is Responsible For Accessibility](https://dev.to/yuridevat/qa-who-is-responsible-for-accessibility-3ep2)
-- [Am I Ready To Apply For Jobs?](https://dev.to/yuridevat/am-i-ready-to-apply-for-jobs-1k9l)
-- [&quot;Elderly&quot;, a meeting app for older people](https://dev.to/yuridevat/elderly-a-meeting-app-for-older-people-4gjb)
-- [How Inspiring A Company Can Be](https://dev.to/yuridevat/how-inspiring-a-company-can-be-4lj8)
-- [Accessibility Testing Tools](https://dev.to/yuridevat/accessibility-testing-tools-4d4g)
-<!-- DEV:END -->
-
-... [READ MORE](https://dev.to/yuridevat)
 
 
 
