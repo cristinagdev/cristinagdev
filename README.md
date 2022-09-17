@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- <p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
 
-<img />
+
 
 <!-- <h2 align="center">My favorite projects 💻</h2>
 <br />
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 
- <img valign="middle" src="./assets/logo.png" width="300"/>
+ <img align="right" src="./assets/logo.png" width="300"/>
 <p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different technologies although I have a special interest in frontend development. </p>
 <p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
