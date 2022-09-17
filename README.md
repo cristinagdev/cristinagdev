@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 <p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
 <p>:muscle: I am currently ... doing a frontend training.</p>
-<p>🌱 I’m currently learning ... React and UX/UI design.</p>
+<p>🌱 I’m currently learning ... React, UX/UI design and improving my English.</p>
 <p>:raising_hand: I’m looking ... for job opportunities where I can learn and grow as a developer.</p>
-<p>:ghost: Fun fact: ... I studied teaching and discovered web development watching HTML and CSS videos on youtube. </p>
+<p>:ghost: Fun fact: I studied teaching and discovered web development watching HTML and CSS videos on youtube. </p>
 
 <br />
 <p>
