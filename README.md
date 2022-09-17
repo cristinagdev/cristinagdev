@@ -93,7 +93,8 @@ Here are some ideas to get you started:
 </p>
 
 
- <p>📫 How to reach me:     <a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a></p>
+ <p>📫 How to reach me:</p>  
+ <a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 
 
 
