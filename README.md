@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">Frontend developer.</p>
 <p align="center">
 <!-- <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
-<a href="https://www.linkedin.com/in/cristina-garcia-dev" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <br />
 <p>
-<h3> Languages and Tools</h3>
+<h3 align= "center"> Languages and Tools</h3>
 </p>
 <br />
 
