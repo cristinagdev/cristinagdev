@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
-
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href=""><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 <br />
 
-<p align="center">Enthusiastic selftaught frontend developer since 2020 using ReactJS. a11y minded. Scrum & Agile inspired.</p>
+<p align="center">Frontend develope.</p>
 <p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
 <p>From time to time I am contributing to open source to improve projects web accessibility.</p>
 <br />
