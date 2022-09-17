@@ -59,9 +59,8 @@ Here are some ideas to get you started:
 <br />
 
 
-<p align= "right" > 
-  <img src="./assets/logo.png" width="300"/>
-</p>
+
+ <img valign="middle" src="./assets/logo.png" width="300"/>
 <p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different technologies although I have a special interest in frontend development. </p>
 <p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
 
