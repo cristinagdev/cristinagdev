@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hi there 👋, I'm Cristina </h1>
 </p>
+<p align="center">Frontend developer.</p>
 <p align="center">
 <!-- <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
 <a href=""><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 
-<p align="center">Frontend developer.</p>
+
 
 <!-- <p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
 
@@ -67,7 +68,7 @@ Here are some ideas to get you started:
 <h3 align="center"> Languages and Tools</h3>
 </p>
 <br />
-<p align="center">
+<p align="right">
 
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
  </a>
