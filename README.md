@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 
 <br />
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h3> Languages and Tools</h3>
+---
 </p>
 <br />
 
