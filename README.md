@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align= "right" > 
-  <img src="./assets/logo.png" width="100"/>
+  <img src="./assets/logo.png" width="300"/>
 </p>
 
 
