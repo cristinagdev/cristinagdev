@@ -69,7 +69,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <a> <img src= "https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"  width="40" height="40"/> </a>
   <a> <img src= "https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"  width="40" height="40"/> </a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png"  width="40" height="40" /></a>
@@ -81,6 +80,8 @@ Here are some ideas to get you started:
   <a> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"  width="40" height="40" /></a>
   <a> <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"  width="40" height="40" /></a>
+  <a> <img src= "https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"  width="40" height="40"/> </a>
+  <a> <img src= "https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"  width="40" height="40"/> </a>
   
 </p>
 
