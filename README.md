@@ -19,17 +19,17 @@ Here are some ideas to get you started:
   <h1 align="center"><b>Hi there, I'm Cristina </h1>
 </p>
 <p align="center">
-<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
+<!-- <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
 <a href=""><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 <br />
 
-<p align="center">Frontend develope.</p>
-<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p>
+<!-- <p align="center">Frontend developer.</p>
+<p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
 <p>From time to time I am contributing to open source to improve projects web accessibility.</p>
 <br />
 
-<h2 align="center">My favorite projects 💻</h2>
+<!-- <h2 align="center">My favorite projects 💻</h2>
 <br />
 
 <p align="center">
@@ -51,14 +51,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<br />
+<br /> -->
 
 <h2 align="center">About me 😇</h2>
-<p align="center">
-Timezone: Europe/Vienna (CEST)
-</p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p></p>
 
 <p>:muscle: I am currently ... helping others to get into tech too by creating content using Twitter.</p>
 <p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
