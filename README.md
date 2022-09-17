@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 <!-- <p>I am a mentor by 💙 helping people who are in the same situation like I was not long ago to get into tech too. Therefore, I am creating a <a href="https://yuridevat.mailchimpsites.com/">learning website</a> for totally beginners, portfolio creators and job-seekers where I am sharing my tips and suggestions.</p> -->
 
+<img />
+
 <!-- <h2 align="center">My favorite projects 💻</h2>
 <br />
 
