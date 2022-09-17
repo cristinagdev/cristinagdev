@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hi there 👋, I'm Cristina </h1>
 </p>
-<p align="center">Frontend developer.</p>
-<p align="center">
+<p align="left">Frontend developer.</p>
+<p align="left">
 <!-- <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 
-<p align= "rigth" > 
+<p align= "right" > 
   <img src="./assets/logo.png" width="400"/>
 </p>
 
