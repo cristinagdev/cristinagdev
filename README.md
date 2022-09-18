@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <p>:muscle: I am currently ... doing a frontend training.</p>
 <p>🌱 I’m currently learning ... React, UX/UI design and improving my English.</p>
 <p>:raising_hand: I’m looking ... for job opportunities where I can learn and grow as a developer.</p>
-<p>:ghost: Fun fact: I studied teaching and discovered web development watching HTML and CSS videos on youtube. </p>
+<p>:ghost: Fun fact ... I studied teaching and discovered web development watching HTML and CSS videos on youtube. </p>
 
 <br />
 <p>
