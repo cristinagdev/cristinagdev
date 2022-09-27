@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 
  <img align="right" src="./assets/logo.png" width="400"/>
 <p> After working as a teacher for 3 years, my interest in creative things led me to discover web programming and start a new stage in my career. I did a fullstack web development bootcamp where I learnt several languages and frameworks (Angular, .Net, Node.js, JavaScript...) although I have a special interest in frontend development. Since then, I have not stopped learning by taking courses.</p>
-<p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p>
+
+<!-- <p>I am a responsible and organized person, with the ability to adapt and used to working as a team. I am eager to learn, improve and add value. I would love to work in a company where I can learn, grow as a developer and have exciting projects. </p> -->
 
 <p>:muscle: I am currently ... doing a frontend training.</p>
 <p>🌱 I’m currently learning ... React, UX/UI design and improving my English.</p>
