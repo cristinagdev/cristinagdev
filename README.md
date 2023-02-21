@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<p>Enthusiastic Frontend Developer with one year of practical experience in JavaScript, TypeScript, Angular, Nodejs, HTML/CSS & SCSS.</p>
+<p>Enthusiastic Frontend Developer </p>
 
 
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <p>:muscle: I am currently ... specializing in frontend development.</p>
 <p>🌱 I’m currently learning ... React, UX/UI design and improving my English.</p>
-<p>:raising_hand: I’m looking ... for job opportunities where I can learn and grow as a developer.</p>
+<!-- <p>:raising_hand: I’m looking ... for job opportunities where I can learn and grow as a developer.</p> -->
 
 <br />
 <p>
