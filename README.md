@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-<p>Enthusiastic Frontend Developer </p>
-
-
-
 <!-- <h2 align="center">My favorite projects 💻</h2>
 <br />
 
