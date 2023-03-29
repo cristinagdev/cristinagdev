@@ -19,35 +19,9 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">Frontend developer.</h3>
 <p align="center">
-<!-- <a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/cristina-garcia-dev"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 </p>
 
-
-
-<!-- <h2 align="center">My favorite projects 💻</h2>
-<br />
-
-<p align="center">
-  <img  width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/YuriDevAT/sos-animals">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=sos-animals&theme=tokyonight" />
-</a>
-  <a href="https://github.com/YuriDevAT/tcl-19-smart-shopping-list">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=tcl-19-smart-shopping-list&theme=tokyonight" />
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
-</p>
-
-<br /> -->
 
 <h2 align="center">About me 😇</h2>
 <br />
@@ -56,10 +30,6 @@ Here are some ideas to get you started:
 
  <img align="right" src="./assets/logo.png" width="400"/>
 <p> I am a frontend developer with a background in education. My interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different languages and tools.</p>
-
-<p>:muscle: I am currently ... specializing in frontend development.</p>
-<p>🌱 I’m currently learning ... React, UX/UI design and improving my English.</p>
-<!-- <p>:raising_hand: I’m looking ... for job opportunities where I can learn and grow as a developer.</p> -->
 
 <br />
 <p>
