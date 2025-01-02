@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
  <img align="right" src="./assets/logo.png" width="400"/>
-<p> I am a frontend developer with a background in education. My interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different languages and tools.</p>
+<!--<p> I am a frontend developer with a background in education. My interest in creative things led me to discover web programming and start a new stage in my career. Since then, I have not stopped learning different languages and tools.</p> -->
 
 <br />
 <p>
